@@ -4,12 +4,12 @@
 **Keywords:** adversarial attacks, hyperparameters, optimization, Fashion
 MNIST, convolutional neural network, generalizing ability of the model, anomaly 
 detection. 
-- The object of the research is the mechanisms for ensuring the information 
+  The object of the research is the mechanisms for ensuring the information 
 security of convolution neural networks in image processing. 
-- The aim of the work is to develop and experimentally study a method for 
+  The aim of the work is to develop and experimentally study a method for 
 detecting adversarial attacks based on the analysis of anomalies in the activations of 
 hidden layers of the neural network. 
-- As a result of the work, a comprehensive study was carried out aimed at 
+  As a result of the work, a comprehensive study was carried out aimed at 
 assessing the effectiveness of methods for detecting adversarial attacks based on the 
 analysis of anomalies in the activations of the intermediate layers of convolutional 
 neural networks, a review of modern approaches to the detection of adversarial 
